@@ -9,7 +9,7 @@ export default function Header(){
     return (
         <div className="w-full fixed top-0 bg-white">
             <div className="container mx-auto items-center px-8 border-b-2 py-4 flex justify-between">
-                <h1 className="font-poppins text-3xl font-bold hover:text-orange-500 ease-in-out duration-200 cursor-pointer">KLM<span className="text-orange-500">.</span></h1>
+                <h1 className="font-poppins text-3xl font-bold hover:text-orange-500 ease-in-out duration-200 cursor-pointer">Zaan<span className="text-orange-500">.</span></h1>
                 <div className="text-xs font-poppins hidden lg:flex lg:justify-center ">
                     <p className="px-2 hover:text-orange-500 cursor-pointer ease-in-out duration-200 font-light">Home</p>
                     <p className="px-2 hover:text-orange-500 cursor-pointer ease-in-out duration-200 font-light">About</p>
